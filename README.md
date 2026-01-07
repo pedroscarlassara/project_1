@@ -68,28 +68,22 @@ Bastion Host (Public Subnet)
 
 ## Usage
 
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd <project-directory>
-   ```
-
-2. **Initialize Terraform**
+1. **Initialize Terraform**
    ```bash
    terraform init
    ```
 
-3. **Review the execution plan**
+2. **Review the execution plan**
    ```bash
    terraform plan
    ```
 
-4. **Apply the configuration**
+3. **Apply the configuration**
    ```bash
    terraform apply
    ```
 
-5. **Destroy the infrastructure** (when done)
+4. **Destroy the infrastructure** (when done)
    ```bash
    terraform destroy
    ```
