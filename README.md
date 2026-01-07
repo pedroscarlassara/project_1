@@ -1,4 +1,4 @@
-# Terraform AWS Infrastructure - Learning Project
+# Project 1
 
 This is a practice project created to learn Terraform and AWS infrastructure provisioning. It demonstrates the creation of a basic AWS architecture with VPC, EC2 instances, load balancer, and security groups.
 
